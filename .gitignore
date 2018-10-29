@@ -2,3 +2,5 @@ venv
 .idea
 user-orchestration/.terraform
 user-orchestration/secrets.tfvars
+user-orchestration/terraform.tfstate
+user-orchestration/terraform.tfstate.backup
